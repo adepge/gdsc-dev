@@ -1,0 +1,68 @@
+#box-1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i1.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i2.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/i3.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: arial black;
+  font-size: 50px;
+  color: white;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.forum {
+  position: absolute;
+  width: 102vw;
+  top: 0;
+  left: -2vw;
+  height: 100vh;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.forum-sc {
+  position: relative;
+  width: 100%;
+  height: 140vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.content-rest {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
