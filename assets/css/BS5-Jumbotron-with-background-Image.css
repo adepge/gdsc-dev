@@ -1,12 +1,14 @@
 #bgImage {
   position: absolute;
   top: 0;
-  left: 0;
+  left: -2vw;
   right: 0;
   bottom: 0;
-  background: url("https://source.unsplash.com/pazM9TQJ2Ck");
+  width: 102vw;
+  background: url("../../assets/img/pankaj-patel-Fi-GJaLRGKc-unsplash.jpg");
   background-size: cover;
   z-index: -1;
-  opacity: 0.5;
+  opacity: 0.8;
+  filter: blur(2px);
 }
 
