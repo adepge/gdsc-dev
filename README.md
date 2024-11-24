@@ -1,6 +1,6 @@
 ### GDSC Exeter Website
 
-This is the official repository for the GDSC Exeter [website](https://gdscexeter.com)
+This is the official repository for the GDSC Exeter [website](https://archive.adepge.com/gdsc-dev/)
 
 #### Images:
 ![image](https://github.com/adepge/gdsc-dev/assets/53652096/5b9892f5-b1f2-44d1-9662-1fee52e7bce5)
